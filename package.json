@@ -1,7 +1,4 @@
 {
-  "name": "meta-webhook",
-  "type": "module",
-  "dependencies": {
-    "express": "^4.22.1"
-  }
+  "name": "webhook",
+  "version": "1.0.0"
 }
